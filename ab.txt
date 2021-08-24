@@ -3,4 +3,8 @@ welcome to this garden
 flower-120rs
 fig-230rs
 chicnke
+beans
+pizza
+final
 done
+
